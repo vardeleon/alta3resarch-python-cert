@@ -6,7 +6,7 @@ This is a basic python program for retrieving your weekly horoscope
 Uses:
 * API request
 * Uses pandas to create dataframe and export to different file format (json,csv,excel)
-* Loop until providing the right input
+* Loop until user provides the right input
 * uses crayon library if the the user input  invalid value (red) and valid value (green)
 * make case-insensitive
 
