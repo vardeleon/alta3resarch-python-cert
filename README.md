@@ -10,7 +10,7 @@ This is a basic python program for retrieving your weekly horoscope
 
 Pre-prerequisite
   1. Python Library
-    * request
+                * request
 		* Crayons
 	 	* pandas
   
